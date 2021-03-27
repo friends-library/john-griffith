@@ -1,4 +1,4 @@
-[#section-1, short="Counsel to Parents and Children"]
+[short="Counsel to Parents and Children"]
 == Section I
 
 [.chapter-subtitle--blurb]
