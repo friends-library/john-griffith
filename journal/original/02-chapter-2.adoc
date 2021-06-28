@@ -1,11 +1,16 @@
 == Chapter II.
 
-His First Religious Visit--Further Exercises Respecting his Appearances
-as a Minister--Visit to Some Meetings in East-Jersey--Marriage and Settlement
-at Darby--Visits New-England in the Work of the Gospel--Makes a Similar
-Visit to Meetings in New York--Also to Meetings in Chester County,
-Pennsylvania--Then to West-Jersey,
-to Maryland and Delaware--And in Bucks County--Death of his Daughter and Wife.
+[.chapter-synopsis]
+* His First Religious Visit
+* Further Exercises Respecting his Appearances as a Minister
+* Visit to Some Meetings in East-Jersey
+* Marriage and Settlement at Darby
+* Visits New-England in the Work of the Gospel
+* Makes a Similar Visit to Meetings in New York
+* Also to Meetings in Chester County, Pennsylvania
+* Then to West-Jersey, to Maryland and Delaware
+* And in Bucks County
+* Death of his Daughter and Wife
 
 After I had appeared in public somewhat more than two years,
 I found some drawings of Gospel-love, as I apprehended,
@@ -356,8 +361,8 @@ that formerly would have wholly extirpated our Friends, and Truth as held by the
 from the face of the earth,
 and prevailed to inflict cruel sufferings on many of the Lord`'s servants,
 four of whom they put to death, as is related at large in a book entitled,
-"`New-England Judged,`" written by George Bishop,
-and in "`Sewel`'s History of the people called Quakers.`"
+[.book-title]#New-England Judged,# written by George Bishop,
+and in [.book-title]#Sewel`'s History of the people called Quakers.#
 Happening to walk into the prison yard, I observed a very ancient building,
 which I judged by its appearance,
 might have been the same in which our Friends had formerly suffered very great hardships.
