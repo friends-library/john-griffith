@@ -1,9 +1,13 @@
 == Chapter III.
 
-His Second Visit to New-England--Interview With Collegians at New-Haven--Religious
-Concern to Visit the Churches of Great Britain--Embarks for Europe--Captured
-by a Privateer and Carried Into Spain,
-and Then to France--Is Liberated--Lands in England and Proceeds to London.
+[.chapter-synopsis]
+* His Second Visit to New-England
+* Interview With Collegians at New-Haven
+* Religious Concern to Visit the Churches of Great Britain
+* Embarks for Europe
+* Captured by a Privateer and Carried Into Spain, and Then to France
+* Is Liberated
+* Lands in England and Proceeds to London
 
 The first journey I entered upon, was a second visit to Friends in New-England.
 I set out the 23d of the third month, 1747,
@@ -27,7 +31,7 @@ I found an inclination to go amongst the collegians, who gathered about me,
 carrying themselves civilly and respectfully.
 I had much discourse and reasoning with them concerning our principles:
 they appearing desirous of information, I answered their questions in a concise manner;
-referring them to Robert Barclay`'s Apology, which I supposed they had in their library,
+referring them to [.book-title]#Robert Barclay`'s Apology,# which I supposed they had in their library,
 for a further explanation thereof.
 I could not help remarking, with pleasure,
 the becoming order they observed in their questions and answers: one at once,
