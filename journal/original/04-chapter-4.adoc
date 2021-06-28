@@ -1,7 +1,11 @@
 == Chapter IV.
 
-Visit to his Mother--Attends the Yearly Meeting in London--Meetings in Norfolk, Suffolk,
-etc.--Visits Yorkshire--Durham, Lancashire, etc.
+[.chapter-synopsis]
+* Visit to his Mother
+* Attends the Yearly Meeting in London
+* Meetings in Norfolk, Suffolk, etc.
+* Visits Yorkshire
+* Durham, Lancashire, etc.
 
 I had an ancient mother in Radnorshire, South Wales,
 whom I had not seen for about twenty-two years.
@@ -887,9 +891,13 @@ There I received from my worthy friend David Hall, an encouraging letter,
 and as it contains matter of weighty instruction, I give it a place here,
 not doubting but it will be agreeable to my readers.
 
-"`Esteemed and Well-beloved Friend,
+[.embedded-content-document.letter]
+--
 
-"`In the sweet spirit and fellowship of the everlasting and glorious Gospel of peace,
+[.salutation]
+Esteemed and Well-beloved Friend,
+
+In the sweet spirit and fellowship of the everlasting and glorious Gospel of peace,
 I hereby kindly salute thee,
 and thy dear companion and fellow-labourer in the
 acceptable work thou art now engaged in;
@@ -913,7 +921,7 @@ I entreat thee, dear brother, keep to thy steady bottom way.
 The present state of the church loudly calls for entire resignation, faith, hope,
 charity and patience, in the ministers of the Gospel.
 
-"`The diversities of gifts, operations and administrations, from the one Spirit,
+The diversities of gifts, operations and administrations, from the one Spirit,
 are beautiful and serviceable;
 as the stars in the firmament are not all of one magnitude,
 have not all one station or degree of lustre,
@@ -948,11 +956,16 @@ We should be glad to see thee here once more.
 Pray write to us.
 My wife joins with me in dear love to thee, and those above-mentioned.
 
-"`I am thy truly affectionate friend,
+[.signed-section-closing]
+I am thy truly affectionate friend,
 
-"`David Hall.
+[.signed-section-signature]
+David Hall.
 
-"`Skipton, the 19th of Tenth month, 1748.`"
+[.signed-section-context-close]
+Skipton, the 19th of Tenth month, 1748.
+
+--
 
 After this meeting I went home with my companion Jonathan Raine, to Trawden,
 and next day to Todmorden, and had a laborious exercising meeting;
