@@ -1,6 +1,7 @@
 [short="Brief Remarks Upon Sundry Important Subjects"]
 == Some Brief Remarks Upon Sundry Important Subjects, Principally Addressed to the People Called Quakers.
 
+[.centered]
 By John Griffith.
 
 === Preface.
@@ -63,10 +64,13 @@ If that graciously attend,
 though what is here offered may be justly accounted as the barley-loaves,
 the hungry soul may receive some strength and refreshment thereby.
 
+[.signed-section-context-close]
 30th of Eighth month, 1764.
 
+[.centered]
 === Section I.
 
+[.section-summary-preface]
 Containing Tender Advice, Caution and Counsel to Parents and Children.
 
 First to parents.
@@ -560,8 +564,10 @@ and he shall go no more out; and I will write upon him the name of my God,
 and the name of the city of my God, which is New Jerusalem,
 which cometh down out of heaven from my God: and I will write upon him my new name.`"
 
+[.centered]
 === Section II.
 
+[.section-summary-preface]
 Observations Concerning the Nature and Necessity of the New Birth.
 
 The doctrine preached by our Lord Jesus Christ to Nicodemus,
@@ -1010,8 +1016,10 @@ and perfectly to understand the proper business of their day,
 both in the world as strangers and pilgrims, and in the church of Christ,
 as living members thereof.
 
+[.centered]
 === Section III.
 
+[.section-summary-preface]
 Relating to the Nature of True Worship; With Some Remarks on the State of our Society,
 Both in Early Times, and now.
 
@@ -1480,8 +1488,10 @@ The beloved of their souls will call, saying, "`Awake, O north wind! and come th
 blow upon my garden, that the spices thereof may flow out.`"
 Then will they say, "`Let my beloved come into his garden, and eat his pleasant fruits.`"
 
+[.centered]
 === Section IV.
 
+[.section-summary-preface]
 Remarks Upon the True and the False Ministry.
 
 The prophet Joel, in a remarkable and excellent manner,
@@ -1889,8 +1899,10 @@ But in the holy, awful waiting upon God in a sanctified heart,
 which is the temple wherein Christ dwells, and our house of prayer,
 Satan can never come to deceive us, or endanger our safety.
 
+[.centered]
 === Section V.
 
+[.section-summary-preface]
 On the Nature and Usefulness of Christian Discipline.
 
 Upon all the glory shall be a defence.
