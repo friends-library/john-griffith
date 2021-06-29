@@ -4,6 +4,7 @@
 [.centered]
 By John Griffith.
 
+[.centered]
 === Preface.
 
 Were it not apprehended by me to be a duty,
@@ -67,11 +68,8 @@ the hungry soul may receive some strength and refreshment thereby.
 [.signed-section-context-close]
 30th of Eighth month, 1764.
 
-[.centered]
-=== Section I.
-
-[.section-summary-preface]
-Containing Tender Advice, Caution and Counsel to Parents and Children.
+[.old-style]
+=== Section I. / Containing Tender Advice, Caution and Counsel to Parents and Children.
 
 First to parents.
 Very much depends upon the right education of children.
@@ -564,11 +562,8 @@ and he shall go no more out; and I will write upon him the name of my God,
 and the name of the city of my God, which is New Jerusalem,
 which cometh down out of heaven from my God: and I will write upon him my new name.`"
 
-[.centered]
-=== Section II.
-
-[.section-summary-preface]
-Observations Concerning the Nature and Necessity of the New Birth.
+[.old-style]
+=== Section II. / Observations Concerning the Nature and Necessity of the New Birth.
 
 The doctrine preached by our Lord Jesus Christ to Nicodemus,
 of the necessity of being born again, John 3:3-8.,
@@ -1016,11 +1011,8 @@ and perfectly to understand the proper business of their day,
 both in the world as strangers and pilgrims, and in the church of Christ,
 as living members thereof.
 
-[.centered]
-=== Section III.
-
-[.section-summary-preface]
-Relating to the Nature of True Worship; With Some Remarks on the State of our Society,
+[.old-style]
+=== Section III. / Relating to the Nature of True Worship; With Some Remarks on the State of our Society,
 Both in Early Times, and now.
 
 The nature of acceptable worship is set forth by our Lord and Saviour Jesus Christ,
@@ -1488,11 +1480,8 @@ The beloved of their souls will call, saying, "`Awake, O north wind! and come th
 blow upon my garden, that the spices thereof may flow out.`"
 Then will they say, "`Let my beloved come into his garden, and eat his pleasant fruits.`"
 
-[.centered]
-=== Section IV.
-
-[.section-summary-preface]
-Remarks Upon the True and the False Ministry.
+[.old-style]
+=== Section IV. / Remarks Upon the True and the False Ministry.
 
 The prophet Joel, in a remarkable and excellent manner,
 sets forth the spring of Gospel ministry; "`And it shall come to pass afterward,
@@ -1899,11 +1888,8 @@ But in the holy, awful waiting upon God in a sanctified heart,
 which is the temple wherein Christ dwells, and our house of prayer,
 Satan can never come to deceive us, or endanger our safety.
 
-[.centered]
-=== Section V.
-
-[.section-summary-preface]
-On the Nature and Usefulness of Christian Discipline.
+[.old-style]
+=== Section V. / On the Nature and Usefulness of Christian Discipline.
 
 Upon all the glory shall be a defence.
 That God intended to establish an excellent government,
