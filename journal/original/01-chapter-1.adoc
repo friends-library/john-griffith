@@ -50,6 +50,7 @@ which were then creeping in;
 and was very deeply affected with the declining state of the church in those parts,
 many having removed to America, which since his decease has become almost a desolation.
 
+[.offset]
 Having thus paid a small tribute, which I thought due to the memory of my worthy parents,
 I shall proceed to give an account of myself.
 
@@ -107,6 +108,7 @@ I have often since, with deep reverence,
 thankfully admired the long suffering of a gracious God, in that he did not cut me off,
 when I willfully resisted the reproofs of his instruction, which is the way to life,
 because I wanted to live in the vain pleasures of this perishing world.
+
 When I was about the age of thirteen years,
 a Friend who had lived some time in Pennsylvania, being in our parts,
 and frequently at our house, gave a very pleasing account of that country.
@@ -143,13 +145,13 @@ though I had great opportunity of being plunged therein, after I left them.
 I hope ever to retain a grateful and thankful remembrance of those gracious preservations,
 when I consider how narrowly I have escaped those rocks,
 upon which many have been shipwrecked and ruined.
+
 I was sometimes visited,
 and in degree awakened to a sense of my undone condition without a Saviour,
 after my arrival in America, though not so frequently as when I was younger.
 As I had often, oh, very often! knowingly withstood it,
 my taste for worldly pleasures being now grown stronger,
 I was very unwilling to give up to the call of Christ.
-
 I could plead abundance of excuses, concluding among other things, that I was but young,
 and might live a great many years; that if I did take my swing a few years,
 I might become religious sooner than many others had done,
@@ -166,7 +168,6 @@ though still preserved out of gross pollutions, or what are commonly so esteemed
 I was afraid to tell a lie,
 except to embellish or set off a pleasant or merry tale or story;
 apprehending it no great crime to tell a lie in jest.
-
 I do not remember ever to have sworn an oath, or uttered a curse.
 Nor was I prevailed upon, in my customary conversation,
 to depart from the rules of my education, respecting the plain language,
@@ -196,6 +197,7 @@ never to be forgotten, visited in an extraordinary manner; concerning which,
 as it was the happy means of turning my mind, in a good degree,
 from the perishing vanities of an uncertain world, to the God of all sure mercies,
 I intend to be somewhat particular.
+
 One evening being with divers of my companions in vanity, and under no restraint,
 as the heads of the family were not at home,
 we carried our frothy vain conversation and foolish rude actions,
@@ -227,14 +229,15 @@ where I was exceedingly desirous to go;
 for by this time I was pretty thoroughly awakened to a sense of duty;
 and it being a week before the like opportunity presented to me again,
 it seemed the longest week I had ever known.
+
 O how did I long to present myself before the Lord in the assemblies
 of his people! that I might pour forth my inward cries before him,
 in a state of sincere repentance and deep contrition of soul; which,
 through the effectual operation of his power in my heart,
-I was then in a condition to do.
-
-Now I clearly saw, that repentance is the gift of God, and that his love,
+I was then in a condition to do. Now I clearly saw, that
+repentance is the gift of God, and that his love,
 wherewith he hath loved us in Christ Jesus our Lord, leads sinners thereinto.
+
 The fleshly will being for the present overcome and silenced,
 there was a giving up with all readiness of mind, to the Lord`'s requirings.
 There was not any thing then too near to part with for the
@@ -250,6 +253,7 @@ wonder and a gazing stock to my former companions,
 I did not much regard it, knowing I had just cause so to be.
 My great change struck them with some awe,
 for I observed they had not the boldness to mock or deride me before my face.
+
 The young man, who was an instrument in the Divine hand for my awakening,
 and his brother, were both greatly reached and deeply affected for the present,
 by the above mentioned wonderful visitation,
@@ -274,13 +278,13 @@ for as saith the Scripture,
 "`the natural man receiveth not the things of the Spirit of God,
 for they are foolishness unto him; neither can he know them,
 because they are spiritually discerned.`"
-
 Hence it is, that the professors of the Christian name, retain signs and shadows,
 whilst the substance is neglected; pleading for the continuance of types,
 when the antitype is but little regarded.
 Where this latter is experienced, all shadows and types vanish and come to an end;
 as did the legal types, when Christ the antitype, came and introduced his dispensation,
 which is altogether of a spiritual nature.
+
 And what is yet more wonderful, and an evidence of great ignorance, is,
 to find those happy and blessed effects,
 which are only produced by the baptism of Christ with the Holy Ghost,
@@ -290,7 +294,6 @@ for when that is done, the priest prays "`that old Adam in the child may be buri
 that the new man may be raised up in him; that all carnal affections may die in him;
 and that all things belonging to the spirit may live and grow in him.`"
 Then he prays, that the element of water may be sanctified to the washing away of sin.
-
 The child is then said to be received into the congregation of Christ`'s flock,
 and is signed with the sign of the cross: when this is done,
 they acknowledge the child to be regenerate,
@@ -322,16 +325,17 @@ that the floor might be thoroughly purged, even the baptism with the Holy Ghost 
 For the former dispensation of the Lord to my soul,
 seemed much to resemble John`'s baptism with water unto repentance,
 as being the real thing signified thereby, in order to prepare the way of the Lord.
+
 Under this fiery dispensation I was for a time exceedingly distressed,
 in a sense of the great alteration I found in the state of my mind;
 attributing it to some cause given by me, that I was thus, as I thought, forsaken.
-
 All the former tenderness was gone, and I was as the parched ground.
 My agonies were so great, that when it was day I wished for night;
 and when it was night I wished for day.
 In meetings for worship, where I had enjoyed most satisfaction,
 I now was under the greatest weight of pain and distress, even to that degree, at times,
 that I could scarcely forbear crying aloud for mere agony.
+
 When meeting was over, I would sometimes walk a considerable way into the woods, that,
 unheard by any mortal, I might, in mournful accents,
 give vent to my greatly distressed soul.
@@ -414,7 +418,6 @@ I then clearly saw, that Satan in his religious appearances,
 is also carefully to be guarded against; as nothing in religion can be acceptable to God,
 but the genuine product of his unerring Spirit,
 distinctly heard and understood by the ear of the soul, and the renewed understanding.
-
 "`My sheep,`" said Christ, "`hear my voice;`" which I now began to experience fulfilled;
 blessed be the Lord forever!
 I had many precious openings into the divine mysteries about this time;
@@ -422,6 +425,7 @@ and when I read the Holy Scriptures, they were opened to my understanding,
 far beyond what they had ever been before, so that I had very great comfort;
 my hope being revived and my faith much strengthened,
 by those things that were written aforetime.
+
 I am well assured, by certain experience,
 that the mysteries couched in those holy writings, cannot be rightly understood,
 but by the same spirit which inspired the penmen of them:
@@ -482,11 +486,11 @@ I endeavoured to try my offering in the unerring balance of the sanctuary,
 I found it was too light to be offered,
 and was thankful to the Lord for his merciful preservation,
 in that I had been enabled to avoid offering the sacrifice of fools.
+
 But when the time really came that it was divinely required of me,
 the evidence was so indisputably clear, that there was not the least room to doubt;
 yet through fear and human frailty, I put it off, and did not give way thereto.
 But oh! how was I condemned in myself!
-
 The divine sweetness which had covered my mind in the meeting was withdrawn,
 and I was left in a very poor disconsolate state, wherein I was ready to beg forgiveness,
 and to covenant with the Lord,
@@ -562,7 +566,9 @@ and to take away her tin and reprobate silver,
 that her judges may be restored as at the first, and her counsellors as at the beginning;
 that many, having their feet shod with the preparation of the Gospel of peace,
 may yet appear beautiful upon the mountains!
-So be it, saith my soul I have given some hints how it was with me,
+So be it, saith my soul!
+
+I have given some hints how it was with me,
 by way of preparation for the great and important work of the ministry,
 and the danger of my being misled, even sometimes when I had right openings,
 and felt the sweet efficacious virtue of the love of God, through Jesus Christ,
@@ -612,12 +618,14 @@ moving upon my heart and subjecting my will, to utter a few words in a broken ma
 with fear and trembling; the Lord being exceedingly merciful to me, as a tender father,
 taking me by the hand, and making me willing by his mighty power,
 to be counted a fool for his sake and the gospel`'s.
+
 The meeting I then belonged to was large,
 and a body of valuable weighty Friends therein; who,
 as far as I could observe by their carriage,
 did own and approve of my weak and low appearances in this service:
 yet they used Christian prudence, not to lay hands suddenly,
 but gave me full opportunity to make proof of my ministry, and to feel my feet therein.
+
 About this time a fine spring of ministry was opened
 within the compass of our Yearly Meeting;
 there having, by account, about one hundred opened their mouths in public testimony,
@@ -692,6 +700,7 @@ therefore I was careful to exercise it in great fear and awfulness,
 and more in a cross to my own will than before;
 as that which was likely to deck itself therewith, was, for the present at least,
 in a good degree slain.
+
 I have very often in the course of my religious experience,
 had cause to admire and adore Divine wisdom,
 in his dealings with me for my preservation in the way of peace;
